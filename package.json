@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-avanzada-test-driven",
+  "version": "1.0.0",
+  "description": "Calculadora con TDD",
+  "main": "src/calculadora.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
