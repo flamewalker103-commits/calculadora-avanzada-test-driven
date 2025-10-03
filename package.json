@@ -1,6 +1,6 @@
 {
   "name": "calculadora-avanzada-test-driven",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Calculadora con TDD",
   "main": "src/calculadora.js",
   "scripts": {
